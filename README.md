@@ -8,3 +8,8 @@ My goal is to:
     -Utilize the aspects of html I have learned to  
     create an organized website  
     -Write a self-reflection at the end on what I learned  
+
+Self Reflection:
+    This project showed itself to be great for ensuring that I actually learned the content of the html basics module. At first I was frustrated that I struggled to recall how to commit files and add links and images. However, by the time the project was over I felt comfortable with all of the commands and was to complete them without having to refer to previous lessons.
+
+    I am excited to have completed this project, and can't wait to learn CSS so I can begin styling webpages as well!
