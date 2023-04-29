@@ -1,6 +1,6 @@
 # odin.recipes
 This is my first coding project! I have been tasked with
-creating a web page for recipes utilizing html.
+creating a web page for recipes utilizing html. I do not particularly enjoy cooking, so I chose to do cocktail recipes due to my bartending experience.
 
 My goal is to:  
     -Show the ability to create a repository on GitHub  
